@@ -1,0 +1,6 @@
+@BrasilDataAPI_HostAddress = http://localhost:5007
+
+GET {{BrasilDataAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
